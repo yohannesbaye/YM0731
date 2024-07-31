@@ -1,3 +1,5 @@
+package rental_agreement;
+
 import java.time.LocalDate;
 
 public class RentalCheckout {

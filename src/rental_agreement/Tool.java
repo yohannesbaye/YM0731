@@ -1,3 +1,5 @@
+package rental_agreement;
+
 public class Tool {
     private String code;
     private String type;

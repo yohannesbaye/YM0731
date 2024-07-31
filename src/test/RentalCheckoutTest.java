@@ -1,4 +1,9 @@
+package test;
+
 import org.junit.jupiter.api.Test;
+import rental_agreement.RentalAgreement;
+import rental_agreement.RentalCheckout;
+
 import static org.junit.jupiter.api.Assertions.*;
 import java.time.LocalDate;
 

@@ -1,3 +1,5 @@
+package rental_agreement;
+
 import java.text.DecimalFormat;
 import java.time.DayOfWeek;
 import java.time.LocalDate;
