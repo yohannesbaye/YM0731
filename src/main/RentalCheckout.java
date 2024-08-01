@@ -1,4 +1,4 @@
-package rental_agreement;
+package main;
 
 import java.time.LocalDate;
 

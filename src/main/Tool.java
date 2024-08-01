@@ -1,4 +1,4 @@
-package rental_agreement;
+package main;
 
 public class Tool {
     private String code;
